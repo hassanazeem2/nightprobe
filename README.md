@@ -26,7 +26,6 @@ NightProbe is a terminal-based **Red Team toolkit** with a dark soul and a red g
 💣 **Hash Cracker** — Bruteforce hashes (MD5/SHA1/SHA256)  
 🌐 **Subdomain Finder** — DNS bruteforce with stealth  
 🔍 **WHOIS Intel** — Whois lookup on target domains  
-🖼️ **ASCII UI** — Retro, red-glow themed hacker terminal
 
 ---
 
